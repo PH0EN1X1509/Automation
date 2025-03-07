@@ -49,7 +49,7 @@ export default function Home(){
                 </div>
 
                 <span className="text-xl font-semibold text-primary">
-                  slide
+                  HandleIt
                 </span>
               </div>
 
@@ -68,7 +68,7 @@ export default function Home(){
             <div className='mx-auto mt-16 max-w-3xl text-center'>
 
               <h1 className='text-4xl font-bold leading-tight tracking-tighter text-white sm:text-5xl md:text-6xl lg:text-7xl'>
-                  Transform your Instagram Engagement with Slide
+                  Transform your Social Media Engagement with HandleIt
               </h1>
  
               <p className='text-blue-200 text-lg'>
@@ -94,9 +94,9 @@ export default function Home(){
 
             </div>
 
-            <div className='relative h-40 md:h-80 w-full mt-10'>
+            {/* <div className='relative h-40 md:h-80 w-full mt-10'>
               <Image src='/Ig-creators.png' alt='Community' className='object-cover' fill />
-            </div>
+            </div> */}
           </div>
         </div>
       </section>
@@ -108,7 +108,7 @@ export default function Home(){
               Choose your Plan
             </h2>
             <p className='max-w-[900px] text-muted-foreground'>
-              Select the perfect plan to boost your instagram engagement.
+              Select the perfect plan to boost your Social Media engagement.
             </p>
           </div>
 
